@@ -1,0 +1,11 @@
+[default]
+host = "raja.db.elephantsql.com"
+port = "5432"
+database = "lczjwycs"
+user = "lczjwycs"
+password ="XZzeZ5o79ojAYKjXBZEc2x4069CpTw9V"
+charset = "utf8"
+sql_log = true
+
+MaxIdleConns = 10 
+MaxOpenConns = 100 

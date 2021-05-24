@@ -3,7 +3,10 @@ package models
 import (
 	"github.com/LauraBarriosg/PRUEBA/libs"
 	"github.com/jinzhu/gorm"
-	//"fmt"
+	"fmt"
+	//"math/rand"
+	//"time"
+	//"strconv"
 )
 
 // Estructura de Dispositivos
@@ -20,18 +23,20 @@ type Dispositivos struct {
 // Crear tabla de Dispositivos
 func TableDispositivos(){
 	libs.DB.AutoMigrate(&Dispositivos{})
-	libs.DB.Model(&Dispositivos{}).AddForeignKey("estacion_mac", "estaciones(direccion_mac)", "CASCADE", "NO ACTION")
+	libs.DB.Model(&Dispositivos{}).AddForeignKey("estacion_mac", "estaciones(estacion_mac)", "CASCADE", "NO ACTION")
 }
-
+var i int = 0
 // Crear Dispositivos
-func CreateDispositivo(){
+func CreateDispositivo(estacion_mac string){
+	X := fmt.Sprintf("Modelo %d", i)
 	libs.DB.Create(&Dispositivos{
-		Modelo:"2", 
+		Modelo:X, 
 		Variable: "Temperatura", 
 		LimiteInferior: "30",
 		LimiteSuperior: "100",
-		EstacionMac: "prueba3313",
+		EstacionMac: estacion_mac,
 	})
+	i++
 }
 
 

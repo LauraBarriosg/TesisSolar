@@ -20,8 +20,8 @@ func main() {
 
 	//Se crean algunos datos 
 	//models.CreateEstacion()
-	//models.CreateDispositivo()
 
+	//libs.DB.Close()
 	//Se conecta con mqtt
     mqtt.Mqtt()
 }

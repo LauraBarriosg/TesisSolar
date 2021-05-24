@@ -1,9 +1,9 @@
 [default]
-host = "raja.db.elephantsql.com"
+host = "localhost"
 port = "5432"
-database = "lczjwycs"
-user = "lczjwycs"
-password ="XZzeZ5o79ojAYKjXBZEc2x4069CpTw9V"
+database = "CRUDgolang"
+user = "Golang"
+password ="Golang"
 charset = "utf8"
 sql_log = true
 

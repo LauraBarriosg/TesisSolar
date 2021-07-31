@@ -82,11 +82,7 @@ func ExtraerDatos(msg string){
 			log.Printf("syntax error at byte offset %d", e.Offset)
 		}
 	}
-	/*defer libs.DB.Close()
-    dbConfig := libs.Configure("./", "postgres")
-	libs.DB = dbConfig.InitPostgresDB()
-	
-	go*/ CrearMedicion(
+	CrearMedicion(
 		medicion.EstacionMac,
 		medicion.Fecha,
 		medicion.GHI, 
@@ -98,13 +94,9 @@ func ExtraerDatos(msg string){
 		medicion.VelocidadViento,
 		medicion.DireccionViento,
 		medicion.PresionAtm,
-	)
-	
+	)	
 	// Para contar los mensajes que llegan
 	X++
 	fmt.Printf("se han recibido --> %d mensajes\n", X)
 }	
-			
-	
-
 

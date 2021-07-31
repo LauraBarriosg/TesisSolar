@@ -1,0 +1,87 @@
+version: '3'
+
+services:
+  go:
+    build: .
+    container_name: Estacion_app
+    ports: 
+      - 8080:8080 
+    restart: on-failure
+    volumes:
+      - api:/usr/src/app/
+    depends_on:
+      - postgres
+      - mosquitto
+    command: sh -c "dockerize -wait tcp://postgres:5432 -wait tcp://mosquitto:1883 -timeout 300s -wait-retry-interval 30s /go/bin/app"
+    networks:
+      - Tesis
+
+  postgres:
+    image: postgres:13.3-alpine
+    container_name: Estacion_db_postgres
+    environment:
+      - POSTGRES_USER=${DB_USER}  
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_DB=${DB_NAME}
+      - DATABASE_HOST=${DB_HOST}
+    ports:
+      - 5432:5432
+    volumes:
+      - postgresql:/var/lib/postgresql/data/
+    networks:
+      - Tesis
+
+  mosquitto:
+    image: eclipse-mosquitto:2.0.10
+    container_name: Estacion_mqtt
+    ports:
+      - 1883:1883
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      #- ./mosquitto/log:/mosquitto/log
+      #- ./mosquitto/data:/mosquitto/data
+    hostname: mosquitto
+    networks:
+      - Tesis
+    restart: unless-stopped      
+
+  pgadmin:
+    image: dpage/pgadmin4:5.4
+    container_name: Estacion_pgadmin
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=${PG_EMAIL}
+      - PGADMIN_DEFAULT_PASSWORD=${PG_PASSWORT}
+      - PGADMIN_CONFIG_SERVER_MODE=True
+    depends_on:
+      - postgres
+    ports:
+      - 5050:5050
+      - 80:80
+    volumes: 
+      - pgadmin:/var/lib/pgadmin4
+    networks:
+      - Tesis
+    restart: unless-stopped
+  
+  portainer:
+    image: portainer/portainer:1.24.2-alpine
+    container_name: Estacion_portainer
+    ports:
+      - 9000:9000
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /var/lib/docker/volumes:/var/lib/docker/volumes
+      - portainer-data:/data
+    networks:
+      - Tesis
+    restart: unless-stopped
+
+volumes:
+  api:
+  postgresql:
+  pgadmin:
+  #mosquitto.conf:
+  portainer-data:
+networks:
+   Tesis:
+    driver: bridge

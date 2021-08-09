@@ -37,20 +37,13 @@ func (c *DbConfig) InitPostgresDB() *gorm.DB {
 		log.Panic(err)
 		os.Exit(-1)
 	}
-
 	return db
-
-
-
-
 	conn, err := sql.Open(c.User, c.Password, c.Host, c.Port, c.Database)
     if err != nil {
         log.Fatal("cannot connect to db:", err)
     }
-
     store := db.NewStore(conn)
     server := api.NewServer(store)
-
     err = server.Start(config.ServerAddress)
     if err != nil {
         log.Fatal("cannot start server:", err)

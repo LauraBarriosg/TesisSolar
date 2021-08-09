@@ -1,0 +1,618 @@
+1627850639: mosquitto version 2.0.10 starting
+1627850639: Config loaded from /mosquitto/config/mosquitto.conf.
+1627850639: Opening ipv4 listen socket on port 1883.
+1627850639: Opening ipv6 listen socket on port 1883.
+1627850639: mosquitto version 2.0.10 running
+1627850693: New connection from 172.20.0.6:41722 on port 1883.
+1627850784: Client <unknown> has exceeded timeout, disconnecting.
+1627850998: New connection from 172.20.0.6:41764 on port 1883.
+1627850998: Client <unknown> closed its connection.
+1627851112: New connection from 172.20.0.6:41772 on port 1883.
+1627851115: Client <unknown> closed its connection.
+1627851127: New connection from 172.20.0.6:41776 on port 1883.
+1627851127: Client <unknown> closed its connection.
+1627851135: New connection from 172.20.0.6:41784 on port 1883.
+1627851135: Client <unknown> closed its connection.
+1627851143: New connection from 172.20.0.6:41788 on port 1883.
+1627851144: Client <unknown> closed its connection.
+1627851161: New connection from 172.20.0.6:41796 on port 1883.
+1627851161: Client <unknown> closed its connection.
+1627851181: New connection from 172.20.0.6:41800 on port 1883.
+1627851181: Client <unknown> closed its connection.
+1627851203: New connection from 172.20.0.6:41808 on port 1883.
+1627851203: Client <unknown> closed its connection.
+1627851234: New connection from 172.20.0.6:41812 on port 1883.
+1627851234: Client <unknown> closed its connection.
+1627851290: New connection from 172.20.0.6:41820 on port 1883.
+1627851290: Client <unknown> closed its connection.
+1627851355: New connection from 172.20.0.6:41826 on port 1883.
+1627851355: Client <unknown> closed its connection.
+1627851420: New connection from 172.20.0.6:41830 on port 1883.
+1627851420: Client <unknown> closed its connection.
+1627851484: New connection from 172.20.0.6:41862 on port 1883.
+1627851484: Client <unknown> closed its connection.
+1627851547: New connection from 172.20.0.6:41912 on port 1883.
+1627851547: Client <unknown> closed its connection.
+1627851610: New connection from 172.20.0.6:41938 on port 1883.
+1627851610: Client <unknown> closed its connection.
+1627851674: New connection from 172.20.0.6:41942 on port 1883.
+1627851674: Client <unknown> closed its connection.
+1627851742: New connection from 172.20.0.6:41950 on port 1883.
+1627851742: Client <unknown> closed its connection.
+1627851807: New connection from 172.20.0.6:41954 on port 1883.
+1627851807: Client <unknown> closed its connection.
+1627851870: New connection from 172.20.0.6:41968 on port 1883.
+1627851870: Client <unknown> closed its connection.
+1627851879: mosquitto version 2.0.10 terminating
+1627851879: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627852059: mosquitto version 2.0.10 starting
+1627852059: Config loaded from /mosquitto/config/mosquitto.conf.
+1627852059: Opening ipv4 listen socket on port 1883.
+1627852059: Opening ipv6 listen socket on port 1883.
+1627852059: mosquitto version 2.0.10 running
+1627852072: New connection from 172.21.0.6:43468 on port 1883.
+1627852132: Client <unknown> closed its connection.
+1627852135: New connection from 172.21.0.6:43478 on port 1883.
+1627852135: Client <unknown> closed its connection.
+1627852139: New connection from 172.21.0.6:43482 on port 1883.
+1627852139: Client <unknown> closed its connection.
+1627852146: New connection from 172.21.0.6:43488 on port 1883.
+1627852146: Client <unknown> closed its connection.
+1627852152: New connection from 172.21.0.6:43496 on port 1883.
+1627852152: Client <unknown> closed its connection.
+1627852156: New connection from 172.21.0.6:43502 on port 1883.
+1627852156: Client <unknown> closed its connection.
+1627852162: New connection from 172.21.0.6:43506 on port 1883.
+1627852162: Client <unknown> closed its connection.
+1627852172: New connection from 172.21.0.6:43512 on port 1883.
+1627852172: Client <unknown> closed its connection.
+1627852187: New connection from 172.21.0.6:43518 on port 1883.
+1627852187: Client <unknown> closed its connection.
+1627852200: mosquitto version 2.0.10 terminating
+1627852200: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627852334: mosquitto version 2.0.10 starting
+1627852334: Config loaded from /mosquitto/config/mosquitto.conf.
+1627852334: Opening ipv4 listen socket on port 1883.
+1627852334: Opening ipv6 listen socket on port 1883.
+1627852334: mosquitto version 2.0.10 running
+1627852347: New connection from 172.22.0.6:42096 on port 1883.
+1627852414: New connection from 172.22.0.6:42104 on port 1883.
+1627852414: Client <unknown> disconnected, not authorised.
+1627852414: New connection from 172.22.0.6:42106 on port 1883.
+1627852414: Client <unknown> disconnected due to protocol error.
+1627852414: Client <unknown> closed its connection.
+1627852419: New connection from 172.22.0.6:42108 on port 1883.
+1627852420: New connection from 172.22.0.6:42114 on port 1883.
+1627852420: Client <unknown> disconnected, not authorised.
+1627852420: New connection from 172.22.0.6:42116 on port 1883.
+1627852420: Client <unknown> disconnected due to protocol error.
+1627852420: Client <unknown> closed its connection.
+1627852425: New connection from 172.22.0.6:42118 on port 1883.
+1627852425: New connection from 172.22.0.6:42124 on port 1883.
+1627852425: Client <unknown> disconnected, not authorised.
+1627852425: New connection from 172.22.0.6:42126 on port 1883.
+1627852425: Client <unknown> disconnected due to protocol error.
+1627852425: Client <unknown> closed its connection.
+1627852435: New connection from 172.22.0.6:42130 on port 1883.
+1627852435: New connection from 172.22.0.6:42134 on port 1883.
+1627852435: Client <unknown> disconnected, not authorised.
+1627852435: New connection from 172.22.0.6:42136 on port 1883.
+1627852435: Client <unknown> disconnected due to protocol error.
+1627852435: Client <unknown> closed its connection.
+1627852440: New connection from 172.22.0.6:42140 on port 1883.
+1627852440: New connection from 172.22.0.6:42144 on port 1883.
+1627852440: Client <unknown> disconnected, not authorised.
+1627852440: New connection from 172.22.0.6:42146 on port 1883.
+1627852440: Client <unknown> disconnected due to protocol error.
+1627852440: Client <unknown> closed its connection.
+1627852448: New connection from 172.22.0.6:42148 on port 1883.
+1627852448: New connection from 172.22.0.6:42154 on port 1883.
+1627852448: Client <unknown> disconnected, not authorised.
+1627852448: New connection from 172.22.0.6:42156 on port 1883.
+1627852448: Client <unknown> disconnected due to protocol error.
+1627852448: Client <unknown> closed its connection.
+1627852454: New connection from 172.22.0.6:42160 on port 1883.
+1627852454: New connection from 172.22.0.6:42164 on port 1883.
+1627852454: Client <unknown> disconnected, not authorised.
+1627852454: New connection from 172.22.0.6:42166 on port 1883.
+1627852454: Client <unknown> disconnected due to protocol error.
+1627852454: Client <unknown> closed its connection.
+1627852463: New connection from 172.22.0.6:42168 on port 1883.
+1627852463: New connection from 172.22.0.6:42174 on port 1883.
+1627852463: Client <unknown> disconnected, not authorised.
+1627852463: New connection from 172.22.0.6:42176 on port 1883.
+1627852463: Client <unknown> disconnected due to protocol error.
+1627852463: Client <unknown> closed its connection.
+1627852478: New connection from 172.22.0.6:42180 on port 1883.
+1627852479: New connection from 172.22.0.6:42184 on port 1883.
+1627852479: Client <unknown> disconnected, not authorised.
+1627852479: New connection from 172.22.0.6:42186 on port 1883.
+1627852479: Client <unknown> disconnected due to protocol error.
+1627852479: Client <unknown> closed its connection.
+1627852482: mosquitto version 2.0.10 terminating
+1627852482: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627852715: mosquitto version 2.0.10 starting
+1627852715: Config loaded from /mosquitto/config/mosquitto.conf.
+1627852715: Opening ipv4 listen socket on port 1883.
+1627852715: Opening ipv6 listen socket on port 1883.
+1627852715: mosquitto version 2.0.10 running
+1627852730: New connection from 172.23.0.6:48720 on port 1883.
+1627852763: New connection from 172.23.0.6:48728 on port 1883.
+1627852763: Client <unknown> disconnected, not authorised.
+1627852763: New connection from 172.23.0.6:48730 on port 1883.
+1627852763: Client <unknown> disconnected due to protocol error.
+1627852763: Client <unknown> closed its connection.
+1627852768: New connection from 172.23.0.6:48734 on port 1883.
+1627852768: New connection from 172.23.0.6:48738 on port 1883.
+1627852768: Client <unknown> disconnected, not authorised.
+1627852768: New connection from 172.23.0.6:48740 on port 1883.
+1627852768: Client <unknown> disconnected due to protocol error.
+1627852768: Client <unknown> closed its connection.
+1627852774: New connection from 172.23.0.6:48744 on port 1883.
+1627852774: New connection from 172.23.0.6:48748 on port 1883.
+1627852774: Client <unknown> disconnected, not authorised.
+1627852774: New connection from 172.23.0.6:48750 on port 1883.
+1627852774: Client <unknown> disconnected due to protocol error.
+1627852774: Client <unknown> closed its connection.
+1627852780: New connection from 172.23.0.6:48752 on port 1883.
+1627852781: New connection from 172.23.0.6:48758 on port 1883.
+1627852781: Client <unknown> disconnected, not authorised.
+1627852781: New connection from 172.23.0.6:48760 on port 1883.
+1627852781: Client <unknown> disconnected due to protocol error.
+1627852781: Client <unknown> closed its connection.
+1627852785: mosquitto version 2.0.10 terminating
+1627852785: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627856016: mosquitto version 2.0.10 starting
+1627856016: Config loaded from /mosquitto/config/mosquitto.conf.
+1627856016: Opening ipv4 listen socket on port 1883.
+1627856016: Opening ipv6 listen socket on port 1883.
+1627856016: mosquitto version 2.0.10 running
+1627856044: New connection from 172.25.0.6:52378 on port 1883.
+1627856076: New connection from 172.25.0.6:52384 on port 1883.
+1627856076: Client <unknown> disconnected, not authorised.
+1627856076: New connection from 172.25.0.6:52386 on port 1883.
+1627856076: Client <unknown> disconnected due to protocol error.
+1627856076: Client <unknown> closed its connection.
+1627856082: New connection from 172.25.0.6:52388 on port 1883.
+1627856083: New connection from 172.25.0.6:52394 on port 1883.
+1627856083: Client <unknown> disconnected, not authorised.
+1627856083: New connection from 172.25.0.6:52396 on port 1883.
+1627856083: Client <unknown> disconnected due to protocol error.
+1627856083: Client <unknown> closed its connection.
+1627856096: New connection from 172.25.0.6:52398 on port 1883.
+1627856097: New connection from 172.25.0.6:52404 on port 1883.
+1627856097: Client <unknown> disconnected, not authorised.
+1627856097: New connection from 172.25.0.6:52406 on port 1883.
+1627856097: Client <unknown> disconnected due to protocol error.
+1627856097: Client <unknown> closed its connection.
+1627856104: New connection from 172.25.0.6:52414 on port 1883.
+1627856104: New connection from 172.25.0.6:52420 on port 1883.
+1627856104: Client <unknown> disconnected, not authorised.
+1627856104: New connection from 172.25.0.6:52422 on port 1883.
+1627856104: Client <unknown> disconnected due to protocol error.
+1627856104: Client <unknown> closed its connection.
+1627856116: New connection from 172.25.0.6:52424 on port 1883.
+1627856117: New connection from 172.25.0.6:52430 on port 1883.
+1627856117: Client <unknown> disconnected, not authorised.
+1627856117: New connection from 172.25.0.6:52432 on port 1883.
+1627856117: Client <unknown> disconnected due to protocol error.
+1627856117: Client <unknown> closed its connection.
+1627856122: New connection from 172.25.0.6:52434 on port 1883.
+1627856123: Client <unknown> closed its connection.
+1627856125: mosquitto version 2.0.10 terminating
+1627856125: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627856603: mosquitto version 2.0.10 starting
+1627856603: Config loaded from /mosquitto/config/mosquitto.conf.
+1627856603: Opening ipv4 listen socket on port 1883.
+1627856603: Opening ipv6 listen socket on port 1883.
+1627856603: mosquitto version 2.0.10 running
+1627856618: New connection from 172.26.0.6:55542 on port 1883.
+1627856680: New connection from 172.26.0.6:55556 on port 1883.
+1627856680: Client <unknown> disconnected, not authorised.
+1627856680: New connection from 172.26.0.6:55558 on port 1883.
+1627856680: Client <unknown> disconnected due to protocol error.
+1627856680: Client <unknown> closed its connection.
+1627856691: New connection from 172.26.0.6:55562 on port 1883.
+1627856691: New connection from 172.26.0.6:55566 on port 1883.
+1627856691: Client <unknown> disconnected, not authorised.
+1627856691: New connection from 172.26.0.6:55568 on port 1883.
+1627856691: Client <unknown> disconnected due to protocol error.
+1627856691: Client <unknown> closed its connection.
+1627856698: New connection from 172.26.0.6:55570 on port 1883.
+1627856699: New connection from 172.26.0.6:55576 on port 1883.
+1627856699: Client <unknown> disconnected, not authorised.
+1627856699: New connection from 172.26.0.6:55578 on port 1883.
+1627856699: Client <unknown> disconnected due to protocol error.
+1627856699: Client <unknown> closed its connection.
+1627856705: New connection from 172.26.0.6:55586 on port 1883.
+1627856706: New connection from 172.26.0.6:55592 on port 1883.
+1627856706: Client <unknown> disconnected, not authorised.
+1627856706: New connection from 172.26.0.6:55594 on port 1883.
+1627856706: Client <unknown> disconnected due to protocol error.
+1627856706: Client <unknown> closed its connection.
+1627856718: New connection from 172.26.0.6:55596 on port 1883.
+1627856719: New connection from 172.26.0.6:55602 on port 1883.
+1627856719: Client <unknown> disconnected, not authorised.
+1627856719: New connection from 172.26.0.6:55604 on port 1883.
+1627856719: Client <unknown> disconnected due to protocol error.
+1627856719: Client <unknown> closed its connection.
+1627856726: New connection from 172.26.0.6:55606 on port 1883.
+1627856726: New connection from 172.26.0.6:55612 on port 1883.
+1627856726: Client <unknown> disconnected, not authorised.
+1627856726: New connection from 172.26.0.6:55614 on port 1883.
+1627856726: Client <unknown> disconnected due to protocol error.
+1627856726: Client <unknown> closed its connection.
+1627856730: mosquitto version 2.0.10 terminating
+1627856730: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627858501: mosquitto version 2.0.10 starting
+1627858501: Config loaded from /mosquitto/config/mosquitto.conf.
+1627858501: Opening ipv4 listen socket on port 1883.
+1627858501: Opening ipv6 listen socket on port 1883.
+1627858501: mosquitto version 2.0.10 running
+1627858512: New connection from 172.27.0.6:57480 on port 1883.
+1627858574: New connection from 172.27.0.6:57494 on port 1883.
+1627858574: Client <unknown> disconnected, not authorised.
+1627858574: New connection from 172.27.0.6:57496 on port 1883.
+1627858574: Client <unknown> disconnected due to protocol error.
+1627858574: Client <unknown> closed its connection.
+1627858582: New connection from 172.27.0.6:57500 on port 1883.
+1627858585: New connection from 172.27.0.6:57504 on port 1883.
+1627858585: Client <unknown> disconnected, not authorised.
+1627858585: New connection from 172.27.0.6:57506 on port 1883.
+1627858585: Client <unknown> disconnected due to protocol error.
+1627858585: Client <unknown> closed its connection.
+1627858591: New connection from 172.27.0.6:57508 on port 1883.
+1627858591: New connection from 172.27.0.6:57514 on port 1883.
+1627858591: Client <unknown> disconnected, not authorised.
+1627858591: New connection from 172.27.0.6:57516 on port 1883.
+1627858591: Client <unknown> disconnected due to protocol error.
+1627858591: Client <unknown> closed its connection.
+1627858599: New connection from 172.27.0.6:57518 on port 1883.
+1627858600: New connection from 172.27.0.6:57524 on port 1883.
+1627858600: Client <unknown> disconnected, not authorised.
+1627858600: New connection from 172.27.0.6:57526 on port 1883.
+1627858600: Client <unknown> disconnected due to protocol error.
+1627858600: Client <unknown> closed its connection.
+1627858609: New connection from 172.27.0.6:57528 on port 1883.
+1627858609: New connection from 172.27.0.6:57534 on port 1883.
+1627858609: Client <unknown> disconnected, not authorised.
+1627858609: New connection from 172.27.0.6:57536 on port 1883.
+1627858609: Client <unknown> disconnected due to protocol error.
+1627858609: Client <unknown> closed its connection.
+1627858614: New connection from 172.27.0.6:57538 on port 1883.
+1627858615: New connection from 172.27.0.6:57544 on port 1883.
+1627858615: Client <unknown> disconnected, not authorised.
+1627858615: New connection from 172.27.0.6:57546 on port 1883.
+1627858615: Client <unknown> disconnected due to protocol error.
+1627858615: Client <unknown> closed its connection.
+1627858621: New connection from 172.27.0.6:57548 on port 1883.
+1627858621: New connection from 172.27.0.6:57554 on port 1883.
+1627858621: Client <unknown> disconnected, not authorised.
+1627858621: New connection from 172.27.0.6:57556 on port 1883.
+1627858621: Client <unknown> disconnected due to protocol error.
+1627858621: Client <unknown> closed its connection.
+1627858631: New connection from 172.27.0.6:57572 on port 1883.
+1627858631: New connection from 172.27.0.6:57576 on port 1883.
+1627858631: Client <unknown> disconnected, not authorised.
+1627858631: New connection from 172.27.0.6:57578 on port 1883.
+1627858631: Client <unknown> disconnected due to protocol error.
+1627858631: Client <unknown> closed its connection.
+1627858647: New connection from 172.27.0.6:57580 on port 1883.
+1627858647: New connection from 172.27.0.6:57586 on port 1883.
+1627858647: Client <unknown> disconnected, not authorised.
+1627858647: New connection from 172.27.0.6:57588 on port 1883.
+1627858647: Client <unknown> disconnected due to protocol error.
+1627858647: Client <unknown> closed its connection.
+1627858676: New connection from 172.27.0.6:57592 on port 1883.
+1627858676: New connection from 172.27.0.6:57596 on port 1883.
+1627858676: Client <unknown> disconnected, not authorised.
+1627858676: New connection from 172.27.0.6:57598 on port 1883.
+1627858676: Client <unknown> disconnected due to protocol error.
+1627858676: Client <unknown> closed its connection.
+1627858729: New connection from 172.27.0.6:57602 on port 1883.
+1627858730: New connection from 172.27.0.6:57606 on port 1883.
+1627858730: Client <unknown> disconnected, not authorised.
+1627858730: New connection from 172.27.0.6:57608 on port 1883.
+1627858730: Client <unknown> disconnected due to protocol error.
+1627858730: Client <unknown> closed its connection.
+1627858792: New connection from 172.27.0.6:57616 on port 1883.
+1627858793: New connection from 172.27.0.6:57622 on port 1883.
+1627858793: Client <unknown> disconnected, not authorised.
+1627858793: New connection from 172.27.0.6:57624 on port 1883.
+1627858793: Client <unknown> disconnected due to protocol error.
+1627858793: Client <unknown> closed its connection.
+1627858855: New connection from 172.27.0.6:57636 on port 1883.
+1627858856: New connection from 172.27.0.6:57640 on port 1883.
+1627858856: Client <unknown> disconnected, not authorised.
+1627858856: New connection from 172.27.0.6:57642 on port 1883.
+1627858856: Client <unknown> disconnected due to protocol error.
+1627858856: Client <unknown> closed its connection.
+1627858920: New connection from 172.27.0.6:57652 on port 1883.
+1627858920: New connection from 172.27.0.6:57656 on port 1883.
+1627858920: Client <unknown> disconnected, not authorised.
+1627858920: New connection from 172.27.0.6:57658 on port 1883.
+1627858920: Client <unknown> disconnected due to protocol error.
+1627858920: Client <unknown> closed its connection.
+1627858988: New connection from 172.27.0.6:57734 on port 1883.
+1627858988: New connection from 172.27.0.6:57740 on port 1883.
+1627858988: Client <unknown> disconnected, not authorised.
+1627858988: New connection from 172.27.0.6:57742 on port 1883.
+1627858988: Client <unknown> disconnected due to protocol error.
+1627858988: Client <unknown> closed its connection.
+1627859056: New connection from 172.27.0.6:57750 on port 1883.
+1627859057: New connection from 172.27.0.6:57756 on port 1883.
+1627859057: Client <unknown> disconnected, not authorised.
+1627859057: New connection from 172.27.0.6:57758 on port 1883.
+1627859057: Client <unknown> disconnected due to protocol error.
+1627859057: Client <unknown> closed its connection.
+1627859119: New connection from 172.27.0.6:57784 on port 1883.
+1627859119: New connection from 172.27.0.6:57790 on port 1883.
+1627859119: Client <unknown> disconnected, not authorised.
+1627859119: New connection from 172.27.0.6:57792 on port 1883.
+1627859119: Client <unknown> disconnected due to protocol error.
+1627859119: Client <unknown> closed its connection.
+1627859182: New connection from 172.27.0.6:57800 on port 1883.
+1627859182: New connection from 172.27.0.6:57806 on port 1883.
+1627859182: Client <unknown> disconnected, not authorised.
+1627859182: New connection from 172.27.0.6:57808 on port 1883.
+1627859182: Client <unknown> disconnected due to protocol error.
+1627859182: Client <unknown> closed its connection.
+1627859237: mosquitto version 2.0.10 terminating
+1627859237: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627859275: mosquitto version 2.0.10 starting
+1627859275: Config loaded from /mosquitto/config/mosquitto.conf.
+1627859275: Opening ipv4 listen socket on port 1883.
+1627859275: Opening ipv6 listen socket on port 1883.
+1627859275: mosquitto version 2.0.10 running
+1627859278: New connection from 172.27.0.6:57852 on port 1883.
+1627859279: New connection from 172.27.0.6:57858 on port 1883.
+1627859279: Client <unknown> disconnected, not authorised.
+1627859279: New connection from 172.27.0.6:57860 on port 1883.
+1627859279: Client <unknown> disconnected due to protocol error.
+1627859279: Client <unknown> closed its connection.
+1627859343: New connection from 172.27.0.5:54868 on port 1883.
+1627859343: New connection from 172.27.0.5:54874 on port 1883.
+1627859343: Client <unknown> disconnected, not authorised.
+1627859343: New connection from 172.27.0.5:54876 on port 1883.
+1627859343: Client <unknown> disconnected due to protocol error.
+1627859343: Client <unknown> closed its connection.
+1627859363: New connection from 172.27.0.5:54890 on port 1883.
+1627859364: New connection from 172.27.0.5:54896 on port 1883.
+1627859364: Client <unknown> disconnected, not authorised.
+1627859364: New connection from 172.27.0.5:54898 on port 1883.
+1627859364: Client <unknown> disconnected due to protocol error.
+1627859364: Client <unknown> closed its connection.
+1627859368: New connection from 172.27.0.5:54900 on port 1883.
+1627859368: New connection from 172.27.0.5:54906 on port 1883.
+1627859368: Client <unknown> disconnected, not authorised.
+1627859368: New connection from 172.27.0.5:54908 on port 1883.
+1627859368: Client <unknown> disconnected due to protocol error.
+1627859368: Client <unknown> closed its connection.
+1627859373: New connection from 172.27.0.5:54912 on port 1883.
+1627859373: New connection from 172.27.0.5:54916 on port 1883.
+1627859373: Client <unknown> disconnected, not authorised.
+1627859373: New connection from 172.27.0.5:54918 on port 1883.
+1627859373: Client <unknown> disconnected due to protocol error.
+1627859373: Client <unknown> closed its connection.
+1627859377: New connection from 172.27.0.5:54922 on port 1883.
+1627859377: New connection from 172.27.0.5:54926 on port 1883.
+1627859377: Client <unknown> disconnected, not authorised.
+1627859377: New connection from 172.27.0.5:54928 on port 1883.
+1627859377: Client <unknown> disconnected due to protocol error.
+1627859377: Client <unknown> closed its connection.
+1627859381: New connection from 172.27.0.5:54930 on port 1883.
+1627859382: New connection from 172.27.0.5:54936 on port 1883.
+1627859382: Client <unknown> disconnected, not authorised.
+1627859382: New connection from 172.27.0.5:54938 on port 1883.
+1627859382: Client <unknown> disconnected due to protocol error.
+1627859382: Client <unknown> closed its connection.
+1627859386: New connection from 172.27.0.5:54942 on port 1883.
+1627859386: New connection from 172.27.0.5:54946 on port 1883.
+1627859386: Client <unknown> disconnected, not authorised.
+1627859386: New connection from 172.27.0.5:54948 on port 1883.
+1627859386: Client <unknown> disconnected due to protocol error.
+1627859386: Client <unknown> closed its connection.
+1627859392: New connection from 172.27.0.5:54950 on port 1883.
+1627859392: New connection from 172.27.0.5:54956 on port 1883.
+1627859392: Client <unknown> disconnected, not authorised.
+1627859392: New connection from 172.27.0.5:54958 on port 1883.
+1627859392: Client <unknown> disconnected due to protocol error.
+1627859392: Client <unknown> closed its connection.
+1627859401: New connection from 172.27.0.5:54962 on port 1883.
+1627859402: New connection from 172.27.0.5:54966 on port 1883.
+1627859402: Client <unknown> disconnected, not authorised.
+1627859402: New connection from 172.27.0.5:54968 on port 1883.
+1627859402: Client <unknown> disconnected due to protocol error.
+1627859402: Client <unknown> closed its connection.
+1627859417: New connection from 172.27.0.5:54972 on port 1883.
+1627859417: New connection from 172.27.0.5:54976 on port 1883.
+1627859417: Client <unknown> disconnected, not authorised.
+1627859417: New connection from 172.27.0.5:54978 on port 1883.
+1627859417: Client <unknown> disconnected due to protocol error.
+1627859417: Client <unknown> closed its connection.
+1627859445: New connection from 172.27.0.5:54980 on port 1883.
+1627859445: New connection from 172.27.0.5:54986 on port 1883.
+1627859445: Client <unknown> disconnected, not authorised.
+1627859445: New connection from 172.27.0.5:54988 on port 1883.
+1627859445: Client <unknown> disconnected due to protocol error.
+1627859445: Client <unknown> closed its connection.
+1627859499: New connection from 172.27.0.5:54990 on port 1883.
+1627859499: New connection from 172.27.0.5:54996 on port 1883.
+1627859499: Client <unknown> disconnected, not authorised.
+1627859499: New connection from 172.27.0.5:54998 on port 1883.
+1627859499: Client <unknown> disconnected due to protocol error.
+1627859499: Client <unknown> closed its connection.
+1627860162: mosquitto version 2.0.10 terminating
+1627860162: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627860166: mosquitto version 2.0.10 starting
+1627860166: Config loaded from /mosquitto/config/mosquitto.conf.
+1627860166: Opening ipv4 listen socket on port 1883.
+1627860166: Opening ipv6 listen socket on port 1883.
+1627860166: mosquitto version 2.0.10 running
+1627860292: New connection from 172.27.0.5:55024 on port 1883.
+1627860292: New connection from 172.27.0.5:55030 on port 1883.
+1627860292: Client <unknown> disconnected, not authorised.
+1627860292: New connection from 172.27.0.5:55032 on port 1883.
+1627860292: Client <unknown> disconnected due to protocol error.
+1627860292: Client <unknown> closed its connection.
+1627860298: New connection from 172.27.0.5:55036 on port 1883.
+1627860299: New connection from 172.27.0.5:55040 on port 1883.
+1627860299: Client <unknown> disconnected, not authorised.
+1627860299: New connection from 172.27.0.5:55042 on port 1883.
+1627860299: Client <unknown> disconnected due to protocol error.
+1627860299: Client <unknown> closed its connection.
+1627860303: New connection from 172.27.0.5:55046 on port 1883.
+1627860303: New connection from 172.27.0.5:55050 on port 1883.
+1627860303: Client <unknown> disconnected, not authorised.
+1627860303: New connection from 172.27.0.5:55052 on port 1883.
+1627860303: Client <unknown> disconnected due to protocol error.
+1627860303: Client <unknown> closed its connection.
+1627860307: New connection from 172.27.0.5:55056 on port 1883.
+1627860307: New connection from 172.27.0.5:55060 on port 1883.
+1627860307: Client <unknown> disconnected, not authorised.
+1627860307: New connection from 172.27.0.5:55062 on port 1883.
+1627860307: Client <unknown> disconnected due to protocol error.
+1627860307: Client <unknown> closed its connection.
+1627860311: New connection from 172.27.0.5:55064 on port 1883.
+1627860312: New connection from 172.27.0.5:55070 on port 1883.
+1627860312: Client <unknown> disconnected, not authorised.
+1627860312: New connection from 172.27.0.5:55072 on port 1883.
+1627860312: Client <unknown> disconnected due to protocol error.
+1627860312: Client <unknown> closed its connection.
+1627860316: New connection from 172.27.0.5:55074 on port 1883.
+1627860316: New connection from 172.27.0.5:55080 on port 1883.
+1627860316: Client <unknown> disconnected, not authorised.
+1627860316: New connection from 172.27.0.5:55082 on port 1883.
+1627860316: Client <unknown> disconnected due to protocol error.
+1627860316: Client <unknown> closed its connection.
+1627860322: New connection from 172.27.0.5:55084 on port 1883.
+1627860322: New connection from 172.27.0.5:55090 on port 1883.
+1627860322: Client <unknown> disconnected, not authorised.
+1627860322: New connection from 172.27.0.5:55092 on port 1883.
+1627860322: Client <unknown> disconnected due to protocol error.
+1627860322: Client <unknown> closed its connection.
+1627860330: mosquitto version 2.0.10 terminating
+1627860330: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627860591: mosquitto version 2.0.10 starting
+1627860591: Config loaded from /mosquitto/config/mosquitto.conf.
+1627860591: Opening ipv4 listen socket on port 1883.
+1627860591: Opening ipv6 listen socket on port 1883.
+1627860591: mosquitto version 2.0.10 running
+1627860604: New connection from 172.28.0.6:36590 on port 1883.
+1627860637: New connection from 172.28.0.6:36606 on port 1883.
+1627860637: New client connected from 172.28.0.6:36606 as auto-3D4499C3-5DF0-1061-38D5-2CE7381D7716 (p2, c1, k30, u'Tesis').
+1627860654: Client auto-3D4499C3-5DF0-1061-38D5-2CE7381D7716 closed its connection.
+1627860654: Client <unknown> closed its connection.
+1627860658: mosquitto version 2.0.10 terminating
+1627860658: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1627920216: mosquitto version 2.0.10 starting
+1627920216: Config loaded from /mosquitto/config/mosquitto.conf.
+1627920216: Opening ipv4 listen socket on port 1883.
+1627920216: Opening ipv6 listen socket on port 1883.
+1627920216: mosquitto version 2.0.10 running
+1627920238: New connection from 172.28.0.5:48084 on port 1883.
+1627920240: New connection from 172.28.0.5:48090 on port 1883.
+1627920240: New client connected from 172.28.0.5:48090 as auto-EDB6E377-771C-1CB0-42B3-F54EC7615F97 (p2, c1, k30, u'Tesis').
+1627920330: Client <unknown> has exceeded timeout, disconnecting.
+1627920610: Client auto-EDB6E377-771C-1CB0-42B3-F54EC7615F97 closed its connection.
+1627920618: mosquitto version 2.0.10 terminating
+1627920618: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628290145: mosquitto version 2.0.10 starting
+1628290145: Config loaded from /mosquitto/config/mosquitto.conf.
+1628290145: Opening ipv4 listen socket on port 1883.
+1628290145: Opening ipv6 listen socket on port 1883.
+1628290145: mosquitto version 2.0.10 running
+1628290154: New connection from 172.18.0.5:38862 on port 1883.
+1628290184: Client <unknown> closed its connection.
+1628290190: New connection from 172.18.0.5:38872 on port 1883.
+1628290190: Client <unknown> closed its connection.
+1628290196: New connection from 172.18.0.5:38880 on port 1883.
+1628290196: Client <unknown> closed its connection.
+1628290202: New connection from 172.18.0.5:38884 on port 1883.
+1628290202: Client <unknown> closed its connection.
+1628290208: New connection from 172.18.0.5:38890 on port 1883.
+1628290208: Client <unknown> closed its connection.
+1628290213: New connection from 172.18.0.5:38898 on port 1883.
+1628290213: Client <unknown> closed its connection.
+1628290220: New connection from 172.18.0.5:38904 on port 1883.
+1628290220: Client <unknown> closed its connection.
+1628290229: New connection from 172.18.0.5:38908 on port 1883.
+1628290229: Client <unknown> closed its connection.
+1628290245: New connection from 172.18.0.5:38914 on port 1883.
+1628290245: Client <unknown> closed its connection.
+1628290273: New connection from 172.18.0.5:38922 on port 1883.
+1628290273: Client <unknown> closed its connection.
+1628290327: New connection from 172.18.0.5:38928 on port 1883.
+1628290327: Client <unknown> closed its connection.
+1628290390: New connection from 172.18.0.5:38932 on port 1883.
+1628290390: Client <unknown> closed its connection.
+1628290428: mosquitto version 2.0.10 terminating
+1628290428: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628290557: mosquitto version 2.0.10 starting
+1628290557: Config loaded from /mosquitto/config/mosquitto.conf.
+1628290557: Opening ipv4 listen socket on port 1883.
+1628290557: Opening ipv6 listen socket on port 1883.
+1628290557: mosquitto version 2.0.10 running
+1628290569: New connection from 172.19.0.6:36476 on port 1883.
+1628290599: Client <unknown> closed its connection.
+1628290604: New connection from 172.19.0.6:36484 on port 1883.
+1628290608: New connection from 172.19.0.6:36490 on port 1883.
+1628290608: New client connected from 172.19.0.6:36490 as auto-E7D10B20-E3C8-B399-BC94-39171F9F3B1E (p2, c1, k30, u'Tesis').
+1628290695: Client <unknown> has exceeded timeout, disconnecting.
+1628291501: New connection from 172.19.0.1:45884 on port 1883.
+1628291501: Client <unknown> disconnected, not authorised.
+1628291501: New connection from 172.19.0.1:45890 on port 1883.
+1628291501: Client <unknown> disconnected due to protocol error.
+1628291639: New connection from 172.19.0.1:45898 on port 1883.
+1628291639: Client <unknown> disconnected, not authorised.
+1628291639: New connection from 172.19.0.1:45904 on port 1883.
+1628291639: Client <unknown> disconnected due to protocol error.
+1628291711: New connection from 172.19.0.1:45910 on port 1883.
+1628291711: Client <unknown> disconnected, not authorised.
+1628291711: New connection from 172.19.0.1:45916 on port 1883.
+1628291711: Client <unknown> disconnected due to protocol error.
+1628292358: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628293486: New connection from 172.19.0.1:45934 on port 1883.
+1628293486: New client connected from 172.19.0.1:45934 as simulator (p2, c1, k30, u'Tesis').
+1628293503: Client simulator closed its connection.
+1628293516: New connection from 172.19.0.1:45940 on port 1883.
+1628293516: New client connected from 172.19.0.1:45940 as auto-488C59D4-0490-F276-566B-D8CE9302E76F (p2, c1, k30, u'Tesis').
+1628293517: Outgoing messages are being dropped for client auto-E7D10B20-E3C8-B399-BC94-39171F9F3B1E.
+1628293518: Client auto-488C59D4-0490-F276-566B-D8CE9302E76F closed its connection.
+1628294159: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628295059: Client auto-E7D10B20-E3C8-B399-BC94-39171F9F3B1E closed its connection.
+1628295065: mosquitto version 2.0.10 terminating
+1628295065: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628365958: mosquitto version 2.0.10 starting
+1628365958: Config loaded from /mosquitto/config/mosquitto.conf.
+1628365958: Opening ipv4 listen socket on port 1883.
+1628365958: Opening ipv6 listen socket on port 1883.
+1628365958: mosquitto version 2.0.10 running
+1628365969: New connection from 172.20.0.5:44576 on port 1883.
+1628366003: New connection from 172.20.0.5:44584 on port 1883.
+1628366003: New client connected from 172.20.0.5:44584 as auto-506945A8-9604-AACB-0589-AA87D609C38D (p2, c1, k30, u'Tesis').
+1628366060: Client <unknown> has exceeded timeout, disconnecting.
+1628367759: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628367969: Client auto-506945A8-9604-AACB-0589-AA87D609C38D closed its connection.
+1628367969: mosquitto version 2.0.10 terminating
+1628367969: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628369448: mosquitto version 2.0.10 starting
+1628369448: Config loaded from /mosquitto/config/mosquitto.conf.
+1628369448: Opening ipv4 listen socket on port 1883.
+1628369448: Opening ipv6 listen socket on port 1883.
+1628369448: mosquitto version 2.0.10 running
+1628369457: New connection from 172.21.0.5:45912 on port 1883.
+1628369489: New connection from 172.21.0.5:45920 on port 1883.
+1628369489: New client connected from 172.21.0.5:45920 as auto-DAC40C31-8BB6-05EF-DA06-86C21785B5EA (p2, c1, k30, u'Tesis').
+1628369550: Client <unknown> has exceeded timeout, disconnecting.
+1628369607: New connection from 172.21.0.1:38012 on port 1883.
+1628369607: New client connected from 172.21.0.1:38012 as auto-189A2449-4AB5-DD37-D83D-E488AE64A59D (p2, c1, k30, u'Tesis').
+1628369614: Client auto-189A2449-4AB5-DD37-D83D-E488AE64A59D closed its connection.
+1628371249: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628376004: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628377805: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628379606: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628381407: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628381931: Client auto-DAC40C31-8BB6-05EF-DA06-86C21785B5EA closed its connection.
+1628381934: mosquitto version 2.0.10 terminating
+1628381934: Saving in-memory database to /mosquitto/data//mosquitto.db.

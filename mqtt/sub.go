@@ -32,6 +32,8 @@ func Mqtt(){
     opts := mqtt.NewClientOptions()
     opts.AddBroker(fmt.Sprintf("tcp://%s:%d", broker, port))
     opts.SetDefaultPublishHandler(Valor_Mandado)
+    opts.SetUsername("Tesis")
+    opts.SetPassword("1234567890")
     opts.OnConnect = connectHandler
     opts.OnConnectionLost = connectLostHandler
     client := mqtt.NewClient(opts)
@@ -39,6 +41,7 @@ func Mqtt(){
     if token := client.Connect(); token.Wait() && token.Error() != nil {
         panic(token.Error())
     }
+
 	defer client.Disconnect(0)
 	sub(client)
 	time.Sleep(time.Second * 10000)

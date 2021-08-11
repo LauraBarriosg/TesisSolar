@@ -72,6 +72,7 @@ services:
       - postgres
     environment:
       GF_USERS_DEFAULT_THEME: "light"
+
   portainer:
     image: portainer/portainer:1.24.2-alpine
     container_name: Estacion_portainer

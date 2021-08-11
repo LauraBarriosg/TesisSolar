@@ -616,3 +616,53 @@
 1628381931: Client auto-DAC40C31-8BB6-05EF-DA06-86C21785B5EA closed its connection.
 1628381934: mosquitto version 2.0.10 terminating
 1628381934: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628535462: mosquitto version 2.0.10 starting
+1628535462: Config loaded from /mosquitto/config/mosquitto.conf.
+1628535462: Opening ipv4 listen socket on port 1883.
+1628535462: Opening ipv6 listen socket on port 1883.
+1628535462: mosquitto version 2.0.10 running
+1628535477: New connection from 172.21.0.4:57766 on port 1883.
+1628535493: New connection from 172.21.0.4:59792 on port 1883.
+1628535493: New client connected from 172.21.0.4:59792 as auto-FF6C208E-FF9C-7F71-E658-D37751E1C3C5 (p2, c1, k30, u'Tesis').
+1628535569: Client <unknown> has exceeded timeout, disconnecting.
+1628537273: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628539074: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628540875: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628541288: Client auto-FF6C208E-FF9C-7F71-E658-D37751E1C3C5 closed its connection.
+1628541291: mosquitto version 2.0.10 terminating
+1628541291: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628541591: mosquitto version 2.0.10 starting
+1628541591: Config loaded from /mosquitto/config/mosquitto.conf.
+1628541591: Opening ipv4 listen socket on port 1883.
+1628541591: Opening ipv6 listen socket on port 1883.
+1628541591: mosquitto version 2.0.10 running
+1628541591: New connection from 172.21.0.3:43370 on port 1883.
+1628541592: New connection from 172.21.0.3:43382 on port 1883.
+1628541592: New client connected from 172.21.0.3:43382 as auto-528ADC95-8605-00C7-6F4D-08C7630965E6 (p2, c1, k30, u'Tesis').
+1628541686: Client <unknown> has exceeded timeout, disconnecting.
+1628543392: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628545192: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628545532: Client auto-528ADC95-8605-00C7-6F4D-08C7630965E6 closed its connection.
+1628545535: mosquitto version 2.0.10 terminating
+1628545535: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628545569: mosquitto version 2.0.10 starting
+1628545569: Config loaded from /mosquitto/config/mosquitto.conf.
+1628545569: Opening ipv4 listen socket on port 1883.
+1628545569: Opening ipv6 listen socket on port 1883.
+1628545569: mosquitto version 2.0.10 running
+1628545579: New connection from 172.22.0.5:38864 on port 1883.
+1628545641: New connection from 172.22.0.5:38916 on port 1883.
+1628545641: New client connected from 172.22.0.5:38916 as auto-7E499876-72E1-12FF-6103-C8B4EC45BA07 (p2, c1, k30, u'Tesis').
+1628545671: Client <unknown> has exceeded timeout, disconnecting.
+1628553123: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628554924: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628599776: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628601959: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628602429: Client auto-7E499876-72E1-12FF-6103-C8B4EC45BA07 has exceeded timeout, disconnecting.
+1628613506: New connection from 172.22.0.5:38918 on port 1883.
+1628613507: New client connected from 172.22.0.5:38918 as auto-28896601-867B-1069-673A-201E1EC1B3AA (p2, c1, k30, u'Tesis').
+1628614817: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628615885: Client auto-28896601-867B-1069-673A-201E1EC1B3AA disconnected.
+1628616618: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1628628415: mosquitto version 2.0.10 terminating
+1628628415: Saving in-memory database to /mosquitto/data//mosquitto.db.
